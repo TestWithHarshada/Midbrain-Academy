@@ -29,7 +29,7 @@ What We Will Not Test (Out of Scope):
  - Navigation Testing: Click all menu items and verify they lead to the correct pages.
  - Training Page Testing: Open training pages and verify details (Title, Description, Buttons).
  - Contact Form Testing: * Enter valid data \rightarrow Send Email \rightarrow Success Message.
-   - Enter invalid data \rightarrow Check for Validation Errors.
+ - Enter invalid data \rightarrow Check for Validation Errors.
  - Button Click Flow: Verify the "Send Email" flow opens the correct form or triggers the intended redirection.
 
 5. Environment & Devices
