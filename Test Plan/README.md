@@ -1,13 +1,13 @@
 
-  - Project Name : Midbrain Academy - Website Automation Testing
+  - Project Name : Midbrains Academy - Website Automation Testing
 
 1. Introduction
-This Test Plan is designed to verify the functionality and user interface of the MidBrains Technologies website. The goal is to ensure that all functional areas, navigation links, and forms work as expected using automated testing scripts.
+This Test Plan is designed to verify the functionality and user interface of the MidBrains Academy website. The goal is to ensure that all functional areas, navigation links, and forms work as expected using automated testing scripts.
 
 2. Scope of Testing
 Functional areas to cover :
  - Home Page: Verification of successful page load, title, and URL.
- -  Navigation Menu: Testing all links for proper redirection.
+ - Navigation Menu: Testing all links for proper redirection.
  - Course Pages: Validating details for MERN, Testing, and other course pages.
  - Forms: Functional testing of the Contact Form and Enquiry/Lead Form.
  - Buttons & CTA: Ensuring "Send Email" and call-to-action buttons trigger the correct actions.
@@ -34,15 +34,15 @@ What We Will Not Test (Out of Scope):
 
 5. Environment & Devices
  - Desktop: Chrome Browser (Latest Version).
- - Mobile: Responsive testing on mobile devices (e.g., Redmi Note 11T 5G).
- - Operating System: Windows/macOS.
+ - Mobile: Responsive testing on mobile devices (e.g. Redmi Note 11T 5G).
+ - Operating System: Windows/Firefox.
 
 6. Deliverables
 As per the requirement, the following will be submitted:
  - Automation Code: GitHub Repository link with clean code.
  - Test Case Document: Detailed Excel or PDF file.
  - Bug Report: Documentation of any defects found during testing.
- - Execution Video: Screen recording of the automated script running.
+ - Execution PDF Or Video: Screen recording of the automated script running.
  - README File: Step-by-step instructions for project setup.
 
 7. Bug Reporting Format
