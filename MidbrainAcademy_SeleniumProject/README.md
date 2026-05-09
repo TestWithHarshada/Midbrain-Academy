@@ -9,13 +9,13 @@
   - Click Generate token at the bottom.
   - Copy the Token immediately! You won't see it again.
 
-       Step 2: Configure Author Identity in Eclipse
+        Step 2: Configure Author Identity in Eclipse
   - Eclipse needs to know who is committing the code.
   - In Eclipse, go to Window > Preferences.
   - Navigate to Version Control > Git > Configuration.
   - Click Add Entry... and add these two:
   - Key: user.name  | Value: Harshada Padher
-  - Key: user.email | Value: [Your GitHub Email]
+  - Key: user.email | Value: harshadapadher25@gmail.com
   - Click Apply and Close.
 
         Step 3: Prepare the Project for Git
