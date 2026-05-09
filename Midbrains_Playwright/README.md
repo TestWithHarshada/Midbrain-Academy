@@ -21,7 +21,7 @@ git pull origin master --rebase
 5. Push to GitHub:
 6. git push -u origin master
 
-      3. Future Updates (The Daily Simple Way) - 
+       3. Future Updates (The Daily Simple Way) - 
 Whenever you change your code in the future, just do these 3 steps:
 1. git add .
 2. git commit -m "Updated code"
